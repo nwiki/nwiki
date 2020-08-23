@@ -12,3 +12,4 @@
 
 ##### Tools
 - [ReadMe](?file=004-Tools/0000-ReadMe "ReadMe")
+- [IDEA设置模板](?file=004-Tools/0001-IDEA设置模板 "IDEA设置模板")

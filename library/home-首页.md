@@ -2,7 +2,7 @@
 
 <br>
 
-![欢迎使用amWiki！](amWiki/images/logo.png "欢迎使用amWiki！")  
+![上善若水](../assets/logo.png "上善若水")  
 
 上善若水  
 水善利万物而不争，处众人之所恶，故几于道。  

@@ -2,6 +2,13 @@
 
 <br>
 
+|||
+|:--:|:--:|
+|[Wiki](wiki.codeclubs.cn)|[Lives](Lives.codeclubs.cn)|
+
+
+<br>
+
 ![上善若水](../assets/logo.png "上善若水")  
 
 上善若水  

@@ -4,7 +4,7 @@
 
 |||
 |:--:|:--:|
-|[Wiki](wiki.codeclubs.cn)|[Lives](Lives.codeclubs.cn)|
+|[Wiki](https://wiki.codeclubs.cn)|[Lives](https://lives.codeclubs.cn)|
 
 
 <br>

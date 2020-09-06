@@ -6,6 +6,7 @@
 
 ##### Python
 - [ReadMe](?file=002-Python/0000-ReadMe "ReadMe")
+- [Python基础知识](?file=002-Python/0001-Python基础知识 "Python基础知识")
 
 ##### Kubernetes
 - [ReadMe](?file=003-Kubernetes/0000-ReadMe "ReadMe")

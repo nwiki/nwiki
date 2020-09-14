@@ -3,6 +3,7 @@
 
 ##### Golang
 - [ReadMe](?file=001-Golang/0000-ReadMe "ReadMe")
+- [Golang学习路线图](?file=001-Golang/0001-Golang学习路线图 "Golang学习路线图")
 
 ##### Python
 - [ReadMe](?file=002-Python/0000-ReadMe "ReadMe")
